@@ -4,7 +4,7 @@
 ---
 
 ### 🔭 I’m currently working on  
-- [LMN-CRM](https://github.com/SATISHKUMAR02/LMN-CRM)
+- [Self-works](https://github.com/SATISHKUMAR02/Self-works)
 
 ### 🌱 I’m currently learning  
 - **Next.JS**
